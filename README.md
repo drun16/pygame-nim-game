@@ -120,6 +120,10 @@ With the virtual environment activated:
 pip install pygame
 ```
 
+```bash
+pip install random
+```
+
 (Optional) Save dependencies:
 
 ```bash
