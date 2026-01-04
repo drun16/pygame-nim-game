@@ -1,7 +1,3 @@
-Here is your content rewritten and **properly formatted as a clean, professional `README.md`** using standard Markdown. I fixed heading levels, code blocks, spacing, and consistency, but **did not change your meaning or content**.
-
----
-
 # 🎮 Pygame-Based Nim Game with AI Opponent
 
 ## 1. Introduction
